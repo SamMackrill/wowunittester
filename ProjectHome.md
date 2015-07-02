@@ -1,0 +1,1 @@
+Ability to run unit tests on wow addon code
